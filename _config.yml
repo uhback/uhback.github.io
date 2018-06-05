@@ -101,9 +101,9 @@ analytics:
 # Site Author
 author:
   name             : "UNHA BACK"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Web Developer Portfolio"
-  location         : "Somewhere"
+  avatar           : "/images/header_img.jpg"
+  bio              : "Web Development Portfolio"
+  location         : "North Shore, Auckland"
   email            : "gmouse03@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
