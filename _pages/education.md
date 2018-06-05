@@ -3,7 +3,7 @@ layout: archive
 permalink: /education/
 title: "Education"
 header:
-    image: "/images/about_image.jpg"
+    image: "/images/about_img.jpg"
 ---
 
 {% include base_path %}

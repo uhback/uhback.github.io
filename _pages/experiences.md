@@ -3,7 +3,7 @@ layout: archive
 permalink: /experiences/
 title: "Experiences"
 header:
-    image: "/images/about_image.jpg"
+    image: "/images/about_img.jpg"
 ---
 
 {% include base_path %}
